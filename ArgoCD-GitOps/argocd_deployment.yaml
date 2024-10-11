@@ -9,6 +9,6 @@ spec:
     server: https://kubernetes.default.svc 
   project: default 
   source:
-    repoURL: https://github.com/zhengqinghong/gitops-for-real-world
+    repoURL: https://github.com/zqhgithubuser/gitops-for-real-world
     path: ./deployment
     targetRevision: main
