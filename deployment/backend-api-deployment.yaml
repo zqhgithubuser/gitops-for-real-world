@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: weather-app-backend-api
-        image: zhengqinghong/weather-app-backend-api:v2fb8fb37a55818539e1e75e727bc8dee5ccda8af 
+        image: zhengqinghong/weather-app-backend-api:v7b70ffd86cd7df4a173fce4b2f0ca27d6750da02 
         imagePullPolicy: Always       # Forces Kubernetes to always pull the image
         ports:
         - containerPort: 80
